@@ -1,0 +1,10 @@
+Package: me.cykey.airscan
+Name: airscan
+Depends: 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: tool to scan for nearby WiFi networks
+Maintainer: Cykey
+Author: Cykey
+Section: System
+Tag: role::hacker
